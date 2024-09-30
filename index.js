@@ -6,6 +6,7 @@ const corsOptions = {
   origin: [
     "http://localhost:5173",
     "https://menu-1sn8qqowf-adnan-quazis-projects.vercel.app",
+    "https://menu-theta-khaki.vercel.app/",
     "https://zooptiq.vercel.app",
     "https://www.zooptick.com",
     "https://www.zooptick.in",
