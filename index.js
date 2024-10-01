@@ -10,6 +10,7 @@ const corsOptions = {
     "https://zooptiq.vercel.app",
     "https://www.zooptick.com",
     "https://www.zooptick.in",
+    "https://menu.zooptick.com"
   ],
   methods: "GET, POST, PUT, DELETE, PATCH, HEAD",
   credentials: true,
